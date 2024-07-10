@@ -1,4 +1,4 @@
-# E-Banking App User Research and Prototype Development
+# User Research and Prototype Development for E-Banking App 
 
 ## Phase I - User Research
 
